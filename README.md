@@ -4,7 +4,7 @@ A modern, responsive React application for analyzing and managing text. This too
 
 ---
 
-## ✨ Features
+ ✨ Features
 
 - ✅ Real-time **Word Count**
 - ✅ Real-time **Sentence Count**
@@ -17,19 +17,19 @@ A modern, responsive React application for analyzing and managing text. This too
 
 ---
 
-## 🚀 Getting Started
+ 🚀 Getting Started
 
 Follow these steps to run the project locally:
 
-### 1. Clone the Repository
+ 1. <b>Clone the Repository</b>
 ```bash
 git clone https://github.com/your-username/word-text-analyzer.git
 cd word-text-analyzer
 
-2. Install Dependencies
+2. <b>Install Dependencies</b>
 npm install
 
-3. Start Development Server
+3. <b>Start Development Server</b>
 npm start
 The app will run on: http://localhost:3000
 
