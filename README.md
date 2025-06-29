@@ -21,15 +21,15 @@ A modern, responsive React application for analyzing and managing text. This too
 
 Follow these steps to run the project locally:
 
- 1. <b>Clone the Repository</b>
+ 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/word-text-analyzer.git
 cd word-text-analyzer
 
-2. <b>Install Dependencies</b>
+2. Install Dependencies
 npm install
 
-3. <b>Start Development Server</b>
+3. Start Development Server
 npm start
 The app will run on: http://localhost:3000
 
