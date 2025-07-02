@@ -2,8 +2,6 @@
 
 A modern, responsive React application for analyzing and managing text. This tool offers real-time insights including **word count**, **sentence count**, **character count**, **estimated reading time**, and features like **dark/light mode** and **text export**.
 
----
-
  ✨ Features
 
 - ✅ Real-time **Word Count**
@@ -15,16 +13,15 @@ A modern, responsive React application for analyzing and managing text. This too
 - ✅ **Dark/Light Mode** toggle
 - ✅ **Responsive design** for all devices
 
----
-
  🚀 Getting Started
 
-Follow these steps to run the project locally:
+Follow these steps to run the app locally:
 
- 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/word-text-analyzer.git
-cd word-text-analyzer
+1. Clone the Repository
+
+git clone https://github.com/hammadalam1/Word-Count-and-Analyzer.git
+cd Word-Count-and-Analyzer
+
 
 2. Install Dependencies
 npm install
@@ -34,9 +31,6 @@ npm start
 The app will run on: http://localhost:3000
 
 📁 Project Structure
-bash
-Copy
-Edit
 src/
 ├── App.jsx         # Main application component
 ├── App.css         # Custom styles (dark mode, grid, layout)
@@ -54,10 +48,6 @@ src/
 🖼️ Markdown or HTML preview
 📄 Export as PDF
 📊 Word frequency analysis
-
-🤝 Contributing
-Contributions are welcome!
-If you'd like to add features or fix bugs, feel free to fork the repository and submit a pull request.
 
 
 👨‍💻 Author
